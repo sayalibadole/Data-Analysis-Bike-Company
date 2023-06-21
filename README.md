@@ -11,3 +11,5 @@ we explore the database's structure, delve into the data, and apply SQL queries 
 tasks such as retrieving sales information, analysing product trends, and understanding
 customer behaviour. We further analyse the specifics of data using Pivot Tables and create a
 final dashboard to present our analysis.
+
+#Link to Tableau Dashboard: https://public.tableau.com/views/BikeData_16873179254810/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
